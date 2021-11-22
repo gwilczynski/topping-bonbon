@@ -2,7 +2,7 @@
   "name": "topping-bonbon",
   "version": "1.0.0",
   "description": "Topping Bonbon",
-  "main": "index.js",
+  "main": "build/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rimraf ./build && tsc"
