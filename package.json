@@ -1,0 +1,24 @@
+{
+  "name": "topping-bonbon",
+  "version": "1.0.0",
+  "description": "Topping Bonbon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwilczynski/topping-bonbon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gwilczynski/topping-bonbon/issues"
+  },
+  "homepage": "https://github.com/gwilczynski/topping-bonbon#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.9",
+    "typescript": "^4.5.2"
+  }
+}
