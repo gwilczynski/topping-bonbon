@@ -1,3 +1,6 @@
-const toppingBonbon = () => console.log("Hello from Topping Bonbon!");
+import cheesecake from "./cheesecake";
+import lollipop from "./lollipop";
 
-export default toppingBonbon;
+const hello = () => console.log("Hello from Topping Bonbon!");
+
+export { hello, cheesecake, lollipop };
