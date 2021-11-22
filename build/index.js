@@ -14,7 +14,6 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.lollipop = exports.hello = exports.cheesecakeMaker = void 0;
-// import cheesecake from "./cheesecake";
 var lollipop_1 = __importDefault(require("./lollipop"));
 exports.lollipop = lollipop_1.default;
 var hello = function () {

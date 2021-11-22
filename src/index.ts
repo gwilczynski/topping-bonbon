@@ -1,4 +1,3 @@
-// import cheesecake from "./cheesecake";
 import lollipop from "./lollipop";
 
 const hello = () => {
