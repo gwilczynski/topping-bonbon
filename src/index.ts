@@ -1,8 +1,11 @@
-import cheesecake from "./cheesecake";
+// import cheesecake from "./cheesecake";
 import lollipop from "./lollipop";
 
 const hello = () => {
   return "Hello from Topping Bonbon!";
 };
 
-export { hello, cheesecake, lollipop };
+export { default as cheesecakeMaker } from "./cheesecake";
+export * from "./cheesecake";
+
+export { hello, lollipop };
